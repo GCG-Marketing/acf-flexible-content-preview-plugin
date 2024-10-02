@@ -48,13 +48,6 @@ A WordPress plugin that adds image previews to ACF Flexible Content layouts in t
 - **WordPress Version**: 5.0 or higher
 - **ACF Pro**: This plugin works with ACF Pro (Advanced Custom Fields) Flexible Content Field.
 
-## Screenshots
-
-1. **Settings Page**:
-   [Add screenshot here]
-2. **Preview Images in ACF**:
-   [Add screenshot here]
-
 ## Development
 
 ### Clone the Repository
